@@ -2,7 +2,7 @@
 项目:代码实例
 文件名:str_image
 制作人:"黄涛"
-date:2022/2/3
+date:2022/2/01
 '''
 from PIL import Image
 img_name='20220203151017.jpg'

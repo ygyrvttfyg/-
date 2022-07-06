@@ -1,0 +1,2 @@
+<Event(4352-AudioDeviceAdded {'which': 0, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 0, 'iscapture': 1})>
